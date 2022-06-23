@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-This weather dashboard utilizes the OpenWeather API https://openweathermap.org/api to retrieve current and 5 day forecast weather data based on the city the user enters.
+This weather dashboard utilizes the [OpenWeather API](https://openweathermap.org/api) to retrieve current and 5 day forecast weather data based on the city the user enters.
 
 UV index data is color coded based on levels as follows:
 
@@ -12,4 +12,4 @@ Previously searched cities are saved on the dashboard and can be searched again 
 
 [Bootstrap](https://getbootstrap.com/) was used for the UI \
 Save icon provided by [Font Awesome](https://fontawesome.com/) \
-[Moment.js](https://momentjs.com/) API was used for date calculation \
+[Moment.js API](https://momentjs.com/) was used for date calculation \
