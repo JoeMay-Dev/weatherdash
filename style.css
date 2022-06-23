@@ -1,0 +1,25 @@
+.ps-header{
+    font-weight: bold;
+    text-align: center;
+    border-style: solid;
+}
+.lowUV{
+    color: white;
+    background-color: green;
+}
+.moderateUV{
+    background-color: yellow;
+}
+.highUV{
+    color: white;
+    background-color: red;
+}
+li{
+    list-style-type: none;
+    border-style: outset;
+    outline-color:  darkgrey;
+}
+li:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
